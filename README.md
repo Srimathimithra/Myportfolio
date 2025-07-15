@@ -13,6 +13,6 @@ Contact page with details for reaching out
 HTML – Structure of the website
 CSS – Basic styling for layout and design
 How to view
-you can access my portfolio website by visiting[]
+you can access my portfolio website by visiting[https://srimathimithra.github.io/Myportfolio/]
 
 Thank you for visiting my portfolio Website!
